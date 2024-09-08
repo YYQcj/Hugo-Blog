@@ -1,5 +1,5 @@
 baseURL = "http://www.example.com"
-title = "CJ's Blog"
+title = "Wiggle2048"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,9 +12,9 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "CJ"
+author = "Wen Yuke"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "CJ's personal website"
+description = "Wiggle2048"
 keywords = "blog,developer,personal"
 info = ["Software Engineer"]
 avatarURL = "images/notion-avatar-cj.png"
@@ -138,10 +138,10 @@ name = "Blog"
 weight = 2
 url = "posts/"
 
-[[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
+# [[languages.en.menu.main]]
+# name = "Projects"
+# weight = 3
+# url = "projects/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
