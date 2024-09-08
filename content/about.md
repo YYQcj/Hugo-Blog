@@ -2,7 +2,7 @@
 title = "Privacy Policy"
 description = ""
 date = "2023-02-25"
-<!-- aliases = ["about-us", "about-hugo", "contact"] -->
+aliases = ["about-us", "about-hugo", "contact"]
 author = "CJ"
 +++
 
