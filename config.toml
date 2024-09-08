@@ -129,14 +129,14 @@ url = "https://github.com/YYQcj"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "Privacy Policy"
 weight = 1
-url = "about/"
+url = "privacypolicy/"
 
-[[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
+# [[languages.en.menu.main]]
+# name = "Blog"
+# weight = 2
+# url = "posts/"
 
 # [[languages.en.menu.main]]
 # name = "Projects"
